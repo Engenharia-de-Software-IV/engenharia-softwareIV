@@ -1,0 +1,7 @@
+User: git config --global user.name "Lucas Gomes"
+
+Email: git config --global user.email "lucasgomes@gmail.com"
+
+git config --global core.editor vim
+
+git config --global core.editor vimdiff
