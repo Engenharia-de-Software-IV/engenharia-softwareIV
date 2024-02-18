@@ -1,0 +1,3 @@
+* Juliana Lima;
+* Aluna do 5º período ADS;
+* Experiência com Ruby, Python, JS e TS.
