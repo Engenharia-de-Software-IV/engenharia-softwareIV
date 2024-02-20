@@ -1,0 +1,4 @@
+Saudações a todos! Especialmente ao nosso estimado professor!
+
+Me chamo Lucas. Tive muita experiência com a linguagem C# e C++ para desenvolvimento de jogos no passado.
+Atualmente estou me dedicando à área de segurança cibernética.
