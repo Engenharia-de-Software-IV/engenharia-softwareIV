@@ -1,3 +1,4 @@
 * Juliana Lima;
 * Aluna do 5º período ADS;
 * Experiência com Ruby, Python, JS e TS.
+* Natural de Teresina/PI
